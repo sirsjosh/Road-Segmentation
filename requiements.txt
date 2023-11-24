@@ -1,0 +1,23 @@
+# requirements.txt
+
+# TensorFlow and Keras for deep learning
+tensorflow==2.7.0
+keras==2.8.0
+
+# OpenCV for image and video processing
+opencv-python==4.5.3.56
+
+# NumPy for numerical operations
+numpy==1.21.0
+
+# Matplotlib for plotting
+matplotlib==3.4.3
+
+# scikit-learn for machine learning utilities
+scikit-learn==0.24.2
+
+# joblib for parallel processing
+joblib==1.1.0
+
+# Additional dependencies
+# Add any other dependencies your project might need
